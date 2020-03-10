@@ -1,3 +1,11 @@
+# serpientesy escaleras 
+#integrantes:
+# FIGUEROA MARTINEZ ARMANDO
+# MARTINEZ VALENCIA LUIS EDUARDO
+# HERNANDEZ TOVAR ANDRES
+# GARCIA GARCAIA SALVADOR 
+
+
 from tkinter import *
 import time
 import random
